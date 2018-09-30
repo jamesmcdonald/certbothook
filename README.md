@@ -1,8 +1,8 @@
 # certbothook
 
 A python library to simplify the common task of running hooks
-when [https://certbot.eff.org/](certbot) renews your
-[https://letsencrypt.org/](Let's Encrypt) certificates.
+when [certbot](https://certbot.eff.org/) renews your
+[Let's Encrypt](https://letsencrypt.org/) certificates.
 
 ## An example
 
